@@ -1,0 +1,15 @@
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\bin\Debug\Tarea4-AlexOmarMartinez.exe.config
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\bin\Debug\Tarea4-AlexOmarMartinez.exe
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\bin\Debug\Tarea4-AlexOmarMartinez.pdb
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4-AlexOmarMartinez.csprojAssemblyReference.cache
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4_AlexOmarMartinez.Forms.FormMenu.resources
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4_AlexOmarMartinez.Properties.Resources.resources
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4-AlexOmarMartinez.csproj.GenerateResource.cache
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4-AlexOmarMartinez.csproj.CoreCompileInputs.cache
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4-AlexOmarMartinez.exe
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4-AlexOmarMartinez.pdb
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4_AlexOmarMartinez.Forms.FormCuotaMenPrest.resources
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4_AlexOmarMartinez.Forms.FormCuotaMensVenta.resources
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4_AlexOmarMartinez.Forms.FormNSal.resources
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4_AlexOmarMartinez.Forms.FormSalExtNeto.resources
+C:\Users\Alex Martinez\source\repos\Tarea4-AlexOmarMartinez\obj\Debug\Tarea4_AlexOmarMartinez.Forms.FormTotalVentas.resources
